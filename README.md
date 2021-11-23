@@ -1,17 +1,17 @@
 # Works Planning Application
 <br>
-Clean Architecture
-MVVM
-Room database
-Binding Adapters
-Data Binding
-View Binding
-RecyclerView.Adapter
-DiffUtil
-LiveData
-ViewModel
-Navigation Component
-Transition Animation
+Clean Architecture<br>
+MVVM<br>
+Room database<br>
+Binding Adapters<br>
+Data Binding<br>
+View Binding<br>
+RecyclerView.Adapter<br>
+DiffUtil<br>
+LiveData<br>
+ViewModel<br>
+Navigation Component<br>
+Transition Animation<br>
 
 <br>
 <p align="center">
